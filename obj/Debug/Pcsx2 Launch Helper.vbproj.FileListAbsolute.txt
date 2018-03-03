@@ -1,0 +1,12 @@
+J:\visual studio 2017\projects 17\Pcsx2 Launch Helper\Pcsx2 Launch Helper\bin\Debug\Pcsx2 Launch Helper.exe.config
+J:\visual studio 2017\projects 17\Pcsx2 Launch Helper\Pcsx2 Launch Helper\bin\Debug\Pcsx2 Launch Helper.exe
+J:\visual studio 2017\projects 17\Pcsx2 Launch Helper\Pcsx2 Launch Helper\bin\Debug\Pcsx2 Launch Helper.pdb
+J:\visual studio 2017\projects 17\Pcsx2 Launch Helper\Pcsx2 Launch Helper\bin\Debug\Pcsx2 Launch Helper.xml
+J:\visual studio 2017\projects 17\Pcsx2 Launch Helper\Pcsx2 Launch Helper\obj\Debug\Pcsx2 Launch Helper.vbprojResolveAssemblyReference.cache
+J:\visual studio 2017\projects 17\Pcsx2 Launch Helper\Pcsx2 Launch Helper\obj\Debug\Pcsx2_Launch_Helper.Form1.resources
+J:\visual studio 2017\projects 17\Pcsx2 Launch Helper\Pcsx2 Launch Helper\obj\Debug\Pcsx2_Launch_Helper.Resources.resources
+J:\visual studio 2017\projects 17\Pcsx2 Launch Helper\Pcsx2 Launch Helper\obj\Debug\Pcsx2 Launch Helper.vbproj.GenerateResource.Cache
+J:\visual studio 2017\projects 17\Pcsx2 Launch Helper\Pcsx2 Launch Helper\obj\Debug\Pcsx2 Launch Helper.vbproj.CoreCompileInputs.cache
+J:\visual studio 2017\projects 17\Pcsx2 Launch Helper\Pcsx2 Launch Helper\obj\Debug\Pcsx2 Launch Helper.exe
+J:\visual studio 2017\projects 17\Pcsx2 Launch Helper\Pcsx2 Launch Helper\obj\Debug\Pcsx2 Launch Helper.xml
+J:\visual studio 2017\projects 17\Pcsx2 Launch Helper\Pcsx2 Launch Helper\obj\Debug\Pcsx2 Launch Helper.pdb
